@@ -1,4 +1,4 @@
-# MuscleSeg - 3D Lower-Limb Muscle Segmentation Pipeline
+# 3D Lower-Limb Muscle Segmentation Pipeline
 
 A deep learning pipeline for automated segmentation and quantification of lower-limb muscles from Dixon MRI scans. The pipeline segments subcutaneous adipose tissue (SAT), whole muscle, and individual muscle compartments in thigh and calf images, and quantifies muscular adipose tissue (MAT, IntraMAT, InterMAT).
 
