@@ -11,7 +11,7 @@ A deep learning pipeline for automated segmentation and quantification of lower-
 ## Repository Structure
 
 ```
-MuscleSeg-main/
+DL-Segmentation-of-Leg-Muscles/
     DL Pipeline for 3D Muscle Segmentation/
         Pipeline development/     # Model training and development code
         Final app/                # Inference pipeline (see below)
