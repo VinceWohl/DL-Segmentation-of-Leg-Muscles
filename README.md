@@ -5,7 +5,7 @@ A deep learning pipeline for automated segmentation and quantification of lower-
 ## Links
 
 - **Dataset**: https://doi.org/10.6084/m9.figshare.31042489
-- **Paper**: https://lnkd.in/db_FZct4
+- **Paper**: https://link.springer.com/article/10.1007/s10334-025-01308-5
 - **Pretrained models**: https://huggingface.co/yeshekway/lower-limb-muscle-segmentation
 
 ## Repository Structure
