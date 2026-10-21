@@ -4,9 +4,9 @@ A deep learning pipeline for automated segmentation and quantification of lower-
 
 ## Links
 
-- **Dataset**: https://doi.org/10.6084/m9.figshare.31042489
 - **Paper**: https://link.springer.com/article/10.1007/s10334-025-01308-5
 - **Pretrained models**: https://huggingface.co/yeshekway/lower-limb-muscle-segmentation
+- **Dataset**: The AIPS dataset is available upon reasonable request. For data access or enquiries about the dataset, please contact suresh@a-star.edu.sg, copying yeshekway@u.nus.edu. Data access requests will be reviewed in accordance with the IHDP Data Governance Guidelines and relevant institutional approvals.
 
 ## Repository Structure
 
